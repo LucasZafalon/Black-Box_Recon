@@ -5,9 +5,9 @@
 #  Authorized Penetration Testing Only
 # ==============================================================================
 #
-#  Autor: Lucas Zafalon
-#  GitHub: @LucasZafalon
-#  Criado para: Red Team | Bug Bounty | Pentest Black Box
+#  Autor: (@LucasZafalon)
+#  GitHub: https://github.com/LucasZafalon/Black-Box_Recon
+#  Criado para: Red Team, Bug Bounty e Pentest Black Box pesado.
 #
 #  Estrutura de fases:
 #   PHASE  1 — WHOIS + DNS Records
