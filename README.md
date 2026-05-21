@@ -12,6 +12,10 @@
 **Offensive Reconnaissance & Enumeration Framework — v4.0**  
 *For authorized penetration testing only.*
 
+**Autor:** Lucas Zafalon
+
+**Propósito:** Ser a framework que eu queria ter tido quando comecei a fazer recon sério.
+
 ---
 
 ## Visão Geral
